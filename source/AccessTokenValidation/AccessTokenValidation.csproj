@@ -29,8 +29,4 @@
 	  <Reference Include="System.Net.Http.WebRequest" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <Folder Include="Properties\" />
-	</ItemGroup>
-
 </Project>
