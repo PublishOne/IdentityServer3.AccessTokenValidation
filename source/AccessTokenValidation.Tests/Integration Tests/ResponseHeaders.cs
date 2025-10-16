@@ -7,7 +7,7 @@ using System.Net;
 using System.Net.Http;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
-using IdentityModel.Client;
+using Duende.IdentityModel.Client;
 using Xunit;
 
 namespace AccessTokenValidation.Tests.Integration_Tests

@@ -1,4 +1,5 @@
-﻿using IdentityModel;
+﻿using Duende.IdentityModel;
+using IdentityModel;
 using System;
 using System.Collections.Generic;
 using System.Net;

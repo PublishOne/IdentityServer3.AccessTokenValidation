@@ -16,7 +16,7 @@
 
 // changes have been made to this file by Rzpeg
 
-using IdentityModel.Client;
+using Duende.IdentityModel.Client;
 
 using Microsoft.Owin.Logging;
 using Microsoft.Owin.Security;
