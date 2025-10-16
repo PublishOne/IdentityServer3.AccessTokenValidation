@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
     <Title>Access Token Validation (Owin 4) Middleware for IdentityServer3</Title>
-    <Version>4.2.0-beta.1</Version>
+    <Version>4.2.0-beta.2</Version>
     <Authors>Brock Allen,Dominick Baier,Stanislav</Authors>
     <Copyright>Copyright ©  2015 Dominick Baier, Brock Allen &amp; Contributors</Copyright>
     <Description>Access token validation middleware for JWT and reference tokens issued by IdentityServer3, based on JWT 5, Owin 4 and IdentityModel 3</Description>
@@ -17,12 +17,9 @@
 
 	<ItemGroup>
 		<PackageReference Include="IdentityModel" Version="7.0.0" />
-		<PackageReference Include="Microsoft.IdentityModel.Protocols" Version="8.14.0" />
 		<PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="8.14.0" />
-		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.14.0" />
 		<PackageReference Include="Microsoft.Owin.Security" Version="4.2.3" />
 		<PackageReference Include="Microsoft.Owin.Security.Jwt" Version="4.2.3" />
-		<PackageReference Include="Microsoft.Owin.Security.OAuth" Version="4.2.3" />
 		<PackageReference Include="System.Runtime.Caching" Version="9.0.10" />
 	</ItemGroup>
 
