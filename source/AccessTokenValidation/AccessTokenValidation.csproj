@@ -8,6 +8,7 @@
     <Copyright>Copyright ©  2015 Dominick Baier, Brock Allen &amp; Contributors</Copyright>
     <Description>Access token validation middleware for JWT and reference tokens issued by IdentityServer3, based on JWT 5, Owin 4 and IdentityModel 3</Description>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
